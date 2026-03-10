@@ -1,2 +1,2 @@
-# 2D_RUN_b
+# 2D_RUN
 用免费素材完成的包含较为完整动画效果和机制的简易2d游戏，包含移动平台，存档点，重生，物品拾取，角色二段跳和攀爬功能（A simple 2D game, created using free assets, featuring relatively complete animation effects and mechanics, including mobile platforms, save points, respawning, item pickup, character double jump, and climbing functions）
